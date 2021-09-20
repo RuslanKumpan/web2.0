@@ -1,0 +1,136 @@
+.header {
+
+text-align: justify;
+    letter-spacing: 1px;
+    height: 8em;
+    padding: 2em 10%;
+    background: #008B8B;
+    color: #3CB371;
+	margin:0;
+}
+.header_picture {
+float: left;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+	background-color: #a4e6f2;
+	color:#a4e6f2;
+}
+.header_fon{
+color: #a4e6f2;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 13px;
+    font-size: 20px;
+
+}
+
+.nav{
+max-width: 960px;
+    margin: 0 auto;
+    padding: 10px;	
+}
+.nav_links {
+	max-width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+div {
+    display: block;
+}
+parent{
+	display: block;
+}
+.child {
+	text-align: center;
+    margin-left: -1cm;
+}
+.child a {
+    padding: 1em;
+    background: #7FFFD4;
+    border-right: 1px solid #b19891;
+    color: #b9c9fe;
+}
+
+a {
+    color: #098e93;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+li {
+	display: list-item;
+    text-align: -webkit-match-parent;
+	
+}
+ul {
+    list-style-type: disc;
+	display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.nav_links1 {
+ max-width:620px;
+ background-color:; 
+ margin:0 auto; 
+ margin-top:20px; 
+ padding:25px;">
+}
+th {
+  font-size: 13px;
+  font-weight: normal;
+  background: #b9c9fe;
+  border-top: 4px solid #aabcfe;
+  border-bottom: 1px solid white;
+  color: #039;
+  padding: 8px;
+}
+td {
+  background: #e8edff;
+  border-bottom: 1px solid white;
+  color: #669;
+  border-top: 1px solid transparent;
+  padding: 8px;
+}
+tr:hover td {
+  background: #7FFFD4;
+}
+
+.nav_table{
+float:left;
+ border-collapse: collapse;
+width: 600px;
+margin-top:40px; 
+margin:0 auto;
+padding:50px;">
+}
+.nav_form {
+
+max-width:200px;
+ margin:0 auto; 
+ margin-top:20px; 
+ padding:25px;">
+ 
+ 
+}
+.endfooter{
+margin-top: 50px;
+    background: #1c625e;
+    height: 100px;
+    color: #a4e6f2;
+}
+.ifooter{
+
+overflow:hidden;
+bottom: 1em;
+right: 1em;
+text-align: right;
+}
